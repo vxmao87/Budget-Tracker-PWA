@@ -35,8 +35,8 @@ The overall design uses the following:
 To use this app in your environment:
 
 1. Run the command `npm install` to install all the required dependencies.
-1. Run the command `node server.js` to start the application.
 1. Please make sure mongoDB is running.
+1. Run the command `node server.js` to start the application.
 
 ## Usage
 
