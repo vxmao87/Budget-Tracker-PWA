@@ -1,6 +1,7 @@
 {
     "short-name": "Budgets",
     "name": "Budget Tracker",
+    "description": "A budgeting app that can function online or offline",
     "icons": [
         {
             "src": "/icons/icon-192x192.png",
