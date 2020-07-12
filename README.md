@@ -42,8 +42,7 @@ To use this app in your environment:
 
 Using this app, you can submit financial transactions, whether you are online or offline. All of your transactions will show up on the graph below, so you can see in detail your spending and earning history even when on the go!
 
-![Image]()
-![Image]()
+![Image](public/assets/images/budget-tracker.png)
 
 ## Questions
 
